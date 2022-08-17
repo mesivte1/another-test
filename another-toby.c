@@ -7,4 +7,5 @@ int main()
     c = a * b;
     printf("The times of %d and %d is = %d\n", a, b ,c);
     printf("Now to understand git branches with squash feature clip and clear.\n");
+    printf("Daily review on remote repository.\n");
 }
